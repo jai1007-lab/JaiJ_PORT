@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6aefe31806f25a7f324351b704c7ad4b",
+    "revision": "b2cf24257caaf28e84c459f76492f126",
     "url": "/JaiJ_PORT/index.html"
   },
   {
-    "revision": "7a7a05e32a900ab892d6",
+    "revision": "4934df7017368bdee5a1",
     "url": "/JaiJ_PORT/static/css/main.41111191.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JaiJ_PORT/static/js/3.bff9dbde.chunk.js"
   },
   {
-    "revision": "7a7a05e32a900ab892d6",
-    "url": "/JaiJ_PORT/static/js/main.58b1b1d5.chunk.js"
+    "revision": "4934df7017368bdee5a1",
+    "url": "/JaiJ_PORT/static/js/main.5b7b42fb.chunk.js"
   },
   {
     "revision": "d01f4822cd919fbc11ec",

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JaiJ_PORT/static/css/main.41111191.chunk.css",
-    "main.js": "/JaiJ_PORT/static/js/main.58b1b1d5.chunk.js",
-    "main.js.map": "/JaiJ_PORT/static/js/main.58b1b1d5.chunk.js.map",
+    "main.js": "/JaiJ_PORT/static/js/main.5b7b42fb.chunk.js",
+    "main.js.map": "/JaiJ_PORT/static/js/main.5b7b42fb.chunk.js.map",
     "runtime~main.js": "/JaiJ_PORT/static/js/runtime~main.d98c15ab.js",
     "runtime~main.js.map": "/JaiJ_PORT/static/js/runtime~main.d98c15ab.js.map",
     "static/js/2.4d50542d.chunk.js": "/JaiJ_PORT/static/js/2.4d50542d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.bff9dbde.chunk.js": "/JaiJ_PORT/static/js/3.bff9dbde.chunk.js",
     "static/js/3.bff9dbde.chunk.js.map": "/JaiJ_PORT/static/js/3.bff9dbde.chunk.js.map",
     "index.html": "/JaiJ_PORT/index.html",
-    "precache-manifest.d98a6d6c2093b9d86d7a9c63b60366ac.js": "/JaiJ_PORT/precache-manifest.d98a6d6c2093b9d86d7a9c63b60366ac.js",
+    "precache-manifest.995a3c8985a72b4cc2a223fac7cdfa6b.js": "/JaiJ_PORT/precache-manifest.995a3c8985a72b4cc2a223fac7cdfa6b.js",
     "service-worker.js": "/JaiJ_PORT/service-worker.js",
     "static/css/main.41111191.chunk.css.map": "/JaiJ_PORT/static/css/main.41111191.chunk.css.map"
   }
